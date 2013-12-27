@@ -8,5 +8,6 @@ namespace Plugin
 {
     public class Class1
     {
+        static Class1 _instance;
     }
 }
